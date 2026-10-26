@@ -1,6 +1,6 @@
 # Week 09 – Graph Algorithms Lab: BFS, DFS, Dijkstra
 
-Name: ____________________   Student ID: ____________________
+Name: Bayramov Khabibulloh   Student ID: 4255085
 
 | Task | File | Run |
 |------|------|-----|

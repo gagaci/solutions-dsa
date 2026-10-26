@@ -1,4 +1,4 @@
-// Name: ____________________   Student ID: ____________________
+// Name: Bayramov Khabibulloh   Student ID: 4255085
 // Graph Algorithms Lab - Task 3: Dijkstra's algorithm (cheapest paths)
 //
 // Compile and run:  javac Dijkstra.java && java Dijkstra

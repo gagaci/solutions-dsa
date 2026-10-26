@@ -1,4 +1,4 @@
-// Name: ____________________   Student ID: ____________________
+// Name: Bayramov Khabibulloh   Student ID: 4255085
 // Graph Algorithms Lab - Task 1: Breadth-First Search (BFS)
 //
 // Compile and run:  javac BFS.java && java BFS

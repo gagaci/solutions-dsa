@@ -1,4 +1,4 @@
-// Name: ____________________   Student ID: ____________________
+// Name: Bayramov Khabibulloh   Student ID: 4255085
 // Graph Algorithms Lab - Task 2: Depth-First Search (DFS), iterative with an explicit stack
 //
 // Compile and run:  javac DFS.java && java DFS
