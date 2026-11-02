@@ -1,3 +1,8 @@
+// Name: Bayramov Khabibulloh   Student ID: 4255085
+// Shortest Paths Lab - Bellman-Ford and Floyd-Warshall
+//
+// Compile and run:  javac Lab_BellmanFord_FloydWarshall.java && java Lab_BellmanFord_FloydWarshall
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -8,7 +13,7 @@ import java.util.Map;
 import java.util.Random;
 import java.util.Set;
 
-public class Main {
+public class Lab_BellmanFord_FloydWarshall {
 
     static final double INF = Double.POSITIVE_INFINITY;
 
